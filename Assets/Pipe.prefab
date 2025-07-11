@@ -139,6 +139,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 372db8d3db5f406488847d38ce31dbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bird: {fileID: 0}
   moveSpeed: 5
   destroyPositionX: -30
 --- !u!1 &5039702905675395298
